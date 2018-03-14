@@ -1,0 +1,75 @@
+calabazin_parado.png
+size: 910, 3478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle1
+  rotate: false
+  xy: 1, 1
+  size: 448, 698
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle2
+  rotate: false
+  xy: 1, 701
+  size: 449, 695
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle3
+  rotate: false
+  xy: 456, 2081
+  size: 450, 692
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle4
+  rotate: false
+  xy: 457, 2775
+  size: 451, 690
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle5
+  rotate: false
+  xy: 1, 2788
+  size: 454, 689
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle6
+  rotate: false
+  xy: 452, 699
+  size: 457, 688
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle7
+  rotate: false
+  xy: 454, 1389
+  size: 455, 690
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle8
+  rotate: false
+  xy: 1, 2094
+  size: 453, 692
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle9
+  rotate: false
+  xy: 1, 1398
+  size: 451, 694
+  orig: 579, 763
+  offset: 44, 30
+  index: -1
+Idle10
+  rotate: false
+  xy: 451, 1
+  size: 450, 696
+  orig: 579, 763
+  offset: 44, 30
+  index: -1

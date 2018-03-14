@@ -1,0 +1,61 @@
+calabazin_corriendo_izquierda.png
+size: 1859, 1408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Run1left
+  rotate: false
+  xy: 468, 702
+  size: 445, 705
+  orig: 579, 763
+  offset: 54, 22
+  index: -1
+Run2left
+  rotate: false
+  xy: 974, 1
+  size: 441, 723
+  orig: 579, 763
+  offset: 64, 5
+  index: -1
+Run3left
+  rotate: false
+  xy: 915, 726
+  size: 465, 665
+  orig: 579, 763
+  offset: 75, 63
+  index: -1
+Run4left
+  rotate: false
+  xy: 1417, 709
+  size: 441, 693
+  orig: 579, 763
+  offset: 64, 34
+  index: -1
+Run5left
+  rotate: false
+  xy: 1417, 1
+  size: 439, 706
+  orig: 579, 763
+  offset: 54, 18
+  index: -1
+Run6left
+  rotate: false
+  xy: 1, 681
+  size: 465, 717
+  orig: 579, 763
+  offset: 63, 9
+  index: -1
+Run7left
+  rotate: false
+  xy: 1, 1
+  size: 507, 678
+  orig: 579, 763
+  offset: 72, 48
+  index: -1
+Run8left
+  rotate: false
+  xy: 510, 1
+  size: 462, 699
+  orig: 579, 763
+  offset: 63, 28
+  index: -1

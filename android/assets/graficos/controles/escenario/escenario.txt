@@ -1,0 +1,75 @@
+escenario.png
+size: 628, 250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArrowSign
+  rotate: false
+  xy: 515, 96
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+Bush1
+  rotate: true
+  xy: 289, 1
+  size: 182, 90
+  orig: 182, 90
+  offset: 0, 0
+  index: -1
+Bush2
+  rotate: false
+  xy: 289, 185
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+Crate
+  rotate: false
+  xy: 381, 1
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+DeadBush
+  rotate: false
+  xy: 381, 109
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+Sign
+  rotate: false
+  xy: 489, 1
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+Skeleton
+  rotate: false
+  xy: 391, 185
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+TombStone1
+  rotate: false
+  xy: 573, 185
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+TombStone2
+  rotate: true
+  xy: 495, 185
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+Tree
+  rotate: false
+  xy: 1, 1
+  size: 286, 239
+  orig: 286, 239
+  offset: 0, 0
+  index: -1
